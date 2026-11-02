@@ -2081,9 +2081,12 @@
     "compare"
   ],
   "60667": [
-    "folder-library-opened"
+    "git-branch-checkout"
   ],
   "60668": [
     "underline"
+  ],
+  "60669": [
+    "folder-library-opened"
   ]
 }
